@@ -1,0 +1,57 @@
+======================================================================
+FEDERATED ITEMSET MINING - SUMMARY
+======================================================================
+
+Timestamp: 2025-11-09 16:49:15
+Total Clients: 5
+Total Transactions: 7500
+Unique Itemsets Found: 98
+
+----------------------------------------------------------------------
+Client Summary:
+----------------------------------------------------------------------
+Client 1: FP-GROWTH algorithm, 1500 transactions, 82 itemsets
+Client 2: FP-GROWTH algorithm, 1500 transactions, 78 itemsets
+Client 3: FP-GROWTH algorithm, 1500 transactions, 82 itemsets
+Client 4: FP-GROWTH algorithm, 1500 transactions, 78 itemsets
+Client 5: FP-GROWTH algorithm, 1500 transactions, 63 itemsets
+
+----------------------------------------------------------------------
+Top Itemsets by Size:
+----------------------------------------------------------------------
+
+1-Itemsets (Total: 50):
+  {'water'} -> Frequency: 1837
+  {'mineral'} -> Frequency: 1787
+  {'french'} -> Frequency: 1451
+  {'chocolate'} -> Frequency: 1352
+  {'eggs'} -> Frequency: 1348
+  {'spaghetti'} -> Frequency: 1306
+  {'fries'} -> Frequency: 1282
+  {'frozen'} -> Frequency: 1189
+  {'tea'} -> Frequency: 1168
+  {'green'} -> Frequency: 1164
+
+2-Itemsets (Total: 37):
+  {'mineral', 'water'} -> Frequency: 1800
+  {'fries', 'french'} -> Frequency: 1310
+  {'green', 'tea'} -> Frequency: 1063
+  {'frozen', 'vegetables'} -> Frequency: 810
+  {'ground', 'beef'} -> Frequency: 737
+  {'whole', 'wheat'} -> Frequency: 667
+  {'yogurt', 'low'} -> Frequency: 585
+  {'yogurt', 'fat'} -> Frequency: 585
+  {'low', 'fat'} -> Frequency: 573
+  {'olive', 'oil'} -> Frequency: 552
+
+3-Itemsets (Total: 11):
+  {'yogurt', 'low', 'fat'} -> Frequency: 585
+  {'whole', 'rice', 'wheat'} -> Frequency: 464
+  {'mineral', 'water', 'spaghetti'} -> Frequency: 381
+  {'mineral', 'water', 'chocolate'} -> Frequency: 376
+  {'mineral', 'water', 'oil'} -> Frequency: 332
+  {'pepper', '&', 'herb'} -> Frequency: 261
+  {'mineral', 'frozen', 'water'} -> Frequency: 259
+  {'mineral', 'water', 'milk'} -> Frequency: 248
+  {'mineral', 'water', 'eggs'} -> Frequency: 175
+  {'ground', 'spaghetti', 'beef'} -> Frequency: 86
